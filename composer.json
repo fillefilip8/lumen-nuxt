@@ -1,13 +1,13 @@
 {
-    "name": "pallares/laravel-nuxt",
-    "description": "Build a SPA with Laravel and Nuxt",
+    "name": "fillefilip8/lumen-nuxt",
+    "description": "Build a SPA with Lumen and Nuxt",
     "keywords": [
         "laravel",
         "nuxt",
         "vue",
         "spa"
     ],
-    "homepage": "https://github.com/skyrpex/laravel-nuxt",
+    "homepage": "https://github.com/fillefilip8/lumen-nuxt",
     "license": "MIT",
     "authors": [
         {
